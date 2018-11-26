@@ -8,17 +8,17 @@ Mainzer Landstraße 250-254
 60326 Frankfurt am Main
 Telefon: 069 3807 6632
 Herrn E-Mail: service@vaamo.de
-Stefan Wallner
-Huemerstr. 12a/1/3
-4020 LINZ
+Max Mustermann
+Strasse. 66a/6/6
+6666 MUSTERSTADT
 ÖSTERREICH
 Es schreibt Ihnen:
 FFB Kundenbetreuung
 Kronberg im Taunus, 30. Juli 2018
 Fondsabrechnung
 Auszug  28 Blatt 1
-Depotinhaber Stefan Wallner
-Depotnummer 1009383829 (Privatvermögen)
+Depotinhaber Max Mustermann
+Depotnummer 6666666666 (Privatvermögen)
 Portfolio Anlagestrategie80
 Transaktion Fondsname Betrag Preis Anteile
 Auftrags-Nr. WKN / ISIN Wechselkurs Preisdatum Bestand alt
@@ -53,17 +53,17 @@ Mainzer Landstraße 250-254
 60326 Frankfurt am Main
 Telefon: 069 3807 6632
 Herrn E-Mail: service@vaamo.de
-Stefan Wallner
-Huemerstr. 12a/1/3
-4020 LINZ
+Max Mustermann
+Musterstr. 66a/6/6
+6666 MUSTERSTADT
 ÖSTERREICH
 Es schreibt Ihnen:
 FFB Kundenbetreuung
 Kronberg im Taunus, 30. Juli 2018
 Fondsabrechnung
 Auszug  28 Blatt 4
-Depotinhaber Stefan Wallner
-Depotnummer 1009383829 (Privatvermögen)
+Depotinhaber Max Mustermann
+Depotnummer 6666666666 (Privatvermögen)
 Portfolio Anlagestrategie80
 Transaktion Fondsname Betrag Preis Anteile
 Auftrags-Nr. WKN / ISIN Wechselkurs Preisdatum Bestand alt
