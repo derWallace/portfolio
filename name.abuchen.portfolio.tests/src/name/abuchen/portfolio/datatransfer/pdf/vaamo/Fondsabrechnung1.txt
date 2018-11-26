@@ -1,0 +1,95 @@
+PDF Author: '' 
+PDFBox Version: 1.8.13
+-----------------------------------------
+Depotführung: Ihr der FFB benannte Vermittler:
+vaamo
+Sciuridae Vermögensverwaltungs GmbH
+Mainzer Landstraße 250-254
+60326 Frankfurt am Main
+Telefon: 069 3807 6632
+Herrn E-Mail: service@vaamo.de
+Stefan Wallner
+Huemerstr. 12a/1/3
+4020 LINZ
+ÖSTERREICH
+Es schreibt Ihnen:
+FFB Kundenbetreuung
+Kronberg im Taunus, 30. Juli 2018
+Fondsabrechnung
+Auszug  28 Blatt 1
+Depotinhaber Stefan Wallner
+Depotnummer 1009383829 (Privatvermögen)
+Portfolio Anlagestrategie80
+Transaktion Fondsname Betrag Preis Anteile
+Auftrags-Nr. WKN / ISIN Wechselkurs Preisdatum Bestand alt
+Fondsgesellschaft Währungsbetrag Zwischengewinn Bestand neu
+Verwahrart, Lagerland Rücknahmepreis
+Splittkauf Betrag iShares Pfandbriefe (DE) 6,70 EUR 104,6000 EUR 0,064
+2524455077 263526 / DE0002635265 16.07.2018 9,795
+iShares 0,0000 EUR 9,859
+Girosammelverwahrung, Deutschland 104,6000 EUR
+Abrechnungsbetrag 6,72 EUR
+Ausgabeaufschlag / Provision (0,00 %) 0,00 EUR
+ETF Transaktionskosten FFB 0,00 EUR
+Additional Trading Costs 0,02 EUR
+Splittkauf Betrag iShares EURO STOXX Small U ETF 20,72 EUR 34,5252 EUR 0,600
+2524455077 A0DK61 / IE00B02KXM00 16.07.2018 19,161
+iShares 0,0000 EUR 19,761
+Wertpapierrechnung, Grossbritannien 34,5252 EUR
+Abrechnungsbetrag 20,76 EUR
+Ausgabeaufschlag / Provision (0,00 %) 0,00 EUR
+ETF Transaktionskosten FFB 0,00 EUR
+Additional Trading Costs 0,04 EUR
+FIL Fondsbank GmbH Postanschrift: Vorsitzender Geschäftsführung: Sitz: Kronberg im Taunus
+Kastanienhöhe 1 Postfach 11 06 63 des Aufsichtsrats: Gerhard Oehne (Sprecher) Amtsgericht
+61476 Kronberg im Taunus 60041 Frankfurt am Main Jon Skillman Peter Nonner Königstein HRB 8336
+info@ffb.de Telefon (069) 7 70 60 - 200 Dr. Andreas Prechtel Umsatzsteuer-ID Nr.
+www.ffb.de Telefax (069) 7 70 60 - 555 Gerald Rink DE213709602
+ABGST_V1.0
+Depotführung: Ihr der FFB benannte Vermittler:
+vaamo
+Sciuridae Vermögensverwaltungs GmbH
+Mainzer Landstraße 250-254
+60326 Frankfurt am Main
+Telefon: 069 3807 6632
+Herrn E-Mail: service@vaamo.de
+Stefan Wallner
+Huemerstr. 12a/1/3
+4020 LINZ
+ÖSTERREICH
+Es schreibt Ihnen:
+FFB Kundenbetreuung
+Kronberg im Taunus, 30. Juli 2018
+Fondsabrechnung
+Auszug  28 Blatt 4
+Depotinhaber Stefan Wallner
+Depotnummer 1009383829 (Privatvermögen)
+Portfolio Anlagestrategie80
+Transaktion Fondsname Betrag Preis Anteile
+Auftrags-Nr. WKN / ISIN Wechselkurs Preisdatum Bestand alt
+Fondsgesellschaft Währungsbetrag Zwischengewinn Bestand neu
+Verwahrart, Lagerland Rücknahmepreis
+Wiederanlage ISHSIII-EO CORP.BD BBB-BB 3,10 EUR 5,0427 EUR 0,615
+2524630941 A12HSP / IE00BSKRK281 27.07.2018 81,397
+iShares 0,0000 EUR 82,012
+Wertpapierrechnung, Irland 5,0427 EUR
+Abrechnungsbetrag 3,10 EUR
+Ausgabeaufschlag / Provision (0,00 %) 0,00 EUR
+Anlagen in Investmentfonds können erst nach Kenntnisnahme der gesetzlichen Verkaufsunterlagen (aktueller Verkaufsprospekt, wesentliche 
+Anlegerinformationen, Halb-/Jahresbericht) erfolgen. Diese Unterlagen haben Sie direkt von Ihrem Vermittler erhalten. Sofern Sie keine 
+elektronischen Orderwege nutzen, verwenden Sie bitte für Investmentfonds-Aufträge ausschließlich die Serviceformulare der FFB, die Sie 
+online oder über Ihren Vermittler erhalten.
+Steuerliche Informationen
+Es wurde kein Freistellungsauftrag erteilt. Verlustverrechnungstopf neu 0,00 EUR
+Quellensteuertopf neu 0,00 EUR
+Hinweise:
+Auslandzahlungen, die 12.500 EUR übersteigen, sind gemäß der Außenwirtschaftsverordnung (AWV) durch Sie meldepflichtig. Weitergehende Informationen zur 
+Meldepflicht nach AWV erhalten Sie direkt von der Deutschen Bundesbank, unter www.bundesbank.de oder unter der Rufnummer 0800 1234 111.
+Einwendungen gegen diese Fondsabrechnung wegen Unrichtigkeit oder Unvollständigkeit richten Sie bitte schriftlich spätestens einen Monat nach Zugang an:
+FIL Fondsbank GmbH, Revision, Postfach 11 06 63, 60041 Frankfurt am Main, Telefax (069) 7 70 60 - 444.
+FIL Fondsbank GmbH Postanschrift: Vorsitzender Geschäftsführung: Sitz: Kronberg im Taunus
+Kastanienhöhe 1 Postfach 11 06 63 des Aufsichtsrats: Gerhard Oehne (Sprecher) Amtsgericht
+61476 Kronberg im Taunus 60041 Frankfurt am Main Jon Skillman Peter Nonner Königstein HRB 8336
+info@ffb.de Telefon (069) 7 70 60 - 200 Dr. Andreas Prechtel Umsatzsteuer-ID Nr.
+www.ffb.de Telefax (069) 7 70 60 - 555 Gerald Rink DE213709602
+ABGST_V1.0
