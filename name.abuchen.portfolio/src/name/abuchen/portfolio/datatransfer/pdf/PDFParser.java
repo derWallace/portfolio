@@ -127,15 +127,24 @@ import name.abuchen.portfolio.datatransfer.Extractor.Item;
             this.transaction = transaction;
         }
 
+        @SuppressWarnings("nls")
         public void parse(String filename, List<Item> items, String[] lines)
         {
             List<Integer> blocks = new ArrayList<>();
 
             for (int ii = 0; ii < lines.length; ii++)
             {
-                Matcher matcher = marker.matcher(lines[ii]);
-                if (matcher.matches())
+                String l = lines[ii];
+                Matcher matcher = marker.matcher(l);
+              
+                
+                if (matcher.matches()) {
+                    System.out.println("Match found for line " + ii + "!");
                     blocks.add(ii);
+                } else {
+                    
+                }
+                    
             }
 
             for (int ii = 0; ii < blocks.size(); ii++)
@@ -143,6 +152,7 @@ import name.abuchen.portfolio.datatransfer.Extractor.Item;
                 int startLine = blocks.get(ii);
                 int endLine = ii + 1 < blocks.size() ? blocks.get(ii + 1) - 1 : lines.length - 1;
 
+                System.out.println(String.format("Parsing from line %s to line %s ...", startLine, endLine));
                 transaction.parse(filename, items, lines, startLine, endLine);
             }
         }
@@ -214,12 +224,16 @@ import name.abuchen.portfolio.datatransfer.Extractor.Item;
             return this;
         }
 
+        @SuppressWarnings("nls")
         public void parse(String filename, List<Item> items, String[] lines, int lineNoStart, int lineNoEnd)
         {
             T target = supplier.get();
 
-            for (Section<T> section : sections)
+            for (Section<T> section : sections) {
+                System.out.println("Section: " + Arrays.toString(section.attributes) + " :");
                 section.parse(filename, lines, lineNoStart, lineNoEnd, target);
+            }
+                
 
             if (wrapper == null)
                 throw new IllegalArgumentException("Wrapping function missing"); //$NON-NLS-1$
@@ -234,7 +248,7 @@ import name.abuchen.portfolio.datatransfer.Extractor.Item;
     {
         private boolean isOptional = false;
         private Transaction<T> transaction;
-        private String[] attributes;
+        public String[] attributes;
         private List<Pattern> pattern = new ArrayList<>();
         private BiConsumer<T, Map<String, String>> assignment;
 
@@ -274,6 +288,7 @@ import name.abuchen.portfolio.datatransfer.Extractor.Item;
             return transaction;
         }
 
+        @SuppressWarnings("nls")
         public void parse(String filename, String[] lines, int lineNo, int lineNoEnd, T target)
         {
             Map<String, String> values = new HashMap<>();
@@ -281,10 +296,12 @@ import name.abuchen.portfolio.datatransfer.Extractor.Item;
             int patternNo = 0;
             for (int ii = lineNo; ii <= lineNoEnd; ii++)
             {
+                String l = lines[ii];
                 Pattern p = pattern.get(patternNo);
-                Matcher m = p.matcher(lines[ii]);
+                Matcher m = p.matcher(l);
                 if (m.matches())
                 {
+                    System.out.println(String.format("Line: %s matched string '%s'.", ii, l));
                     // extract attributes
                     extractAttributes(values, p, m);
 
